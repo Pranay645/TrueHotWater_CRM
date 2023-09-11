@@ -1,0 +1,11 @@
+.back_color 
+{
+    background: #22315a;    
+    background-color:#1a5180;
+}
+@media (min-width: 800px)
+{
+.gradient-form {
+height: 100vh !important;   
+}
+}
